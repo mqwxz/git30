@@ -43,7 +43,7 @@ $ git add something.txt
 $ git commit -m "1st paragraph"
 
 $ echo "2 абзац" >> something.txt
-$ git add something2.txt
+$ git add something.txt
 $ git commit -m "2nd paragraph"
 
 $ echo "3 абзац" >> something.txt
